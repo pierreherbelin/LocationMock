@@ -1,0 +1,2 @@
+rootProject.name='LocationMock'
+include ':app'
